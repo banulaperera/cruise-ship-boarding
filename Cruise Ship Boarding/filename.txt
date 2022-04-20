@@ -1,0 +1,48 @@
+Name      :- oeew iwe
+Cabin no. :- 1
+Expenses  :- 923.00
+
+Name      :- kas as
+Cabin no. :- 2
+Expenses  :- 3,232.00
+
+Name      :- kdnw e
+Cabin no. :- 3
+Expenses  :- 232.00
+
+Name      :- wpe we
+Cabin no. :- 4
+Expenses  :- 233.00
+
+Name      :- proe f
+Cabin no. :- 5
+Expenses  :- 32.00
+
+Name      :- oas soa
+Cabin no. :- 6
+Expenses  :- 9,328.00
+
+Name      :- pweo weow
+Cabin no. :- 7
+Expenses  :- 9,328.00
+
+Name      :- owe woe
+Cabin no. :- 8
+Expenses  :- 2,023.00
+
+Name      :- uete euwe
+Cabin no. :- 9
+Expenses  :- 9,382.00
+
+Name      :- pqw qpw
+Cabin no. :- 10
+Expenses  :- 93.00
+
+Name      :- q p
+Cabin no. :- 11
+Expenses  :- 83.00
+
+Name      :- peq qe
+Cabin no. :- 12
+Expenses  :- 3.00
+
